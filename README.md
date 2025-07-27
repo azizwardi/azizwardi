@@ -147,6 +147,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" height="40" alt="grafana logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original-wordmark.svg" height="40" alt="prometheus logo"  />
+  <img width="12" />
+  <img height="40" alt="image" src="https://github.com/user-attachments/assets/256169b0-d27a-4ab3-b792-f2349692ea37" />
+
 </div>
 
 ###
