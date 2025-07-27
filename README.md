@@ -18,6 +18,13 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="37" height="25" alt="facebook logo"  />
   </a>
 </div>
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=wardiaziz.wardiaziz&"  />
+</div>
+
+###
 
 ###
 
